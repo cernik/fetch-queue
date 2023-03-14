@@ -1,6 +1,7 @@
 {
   "name": "fetch-queue-srcs",
   "private": true,
+  "version": "0.1.0",
   "homepage": "https://github.com/evan-liu/fetch-queue",
   "bugs": {
     "url": "https://github.com/evan-liu/fetch-queue/issues"
